@@ -585,11 +585,11 @@ export const initialData: SeedData = {
 
   users: [
     {
-      email: 'bazar.campechano@hotmail.com',
-      name: 'Bazar Campechano',
+      email: 'only-cart@hotmail.com',
+      name: 'Only Cart',
       password: bcrypt.hashSync('userseed'),
       role: 'admin',
-      phoneNumber: '+5219812099475'
+      phoneNumber: '+5219811250049'
     }
   ]
 
